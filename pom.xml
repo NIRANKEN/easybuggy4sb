@@ -21,7 +21,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<java.version>1.7</java.version>
+		<java.version>1.8</java.version>
 		<!-- default properties (JDK 1.8 or later) -->
 		<jvm.args>-XX:MaxMetaspaceSize=128m -Xloggc:logs/gc_%p_%t.log
 			-XX:NativeMemoryTracking=summary</jvm.args>
