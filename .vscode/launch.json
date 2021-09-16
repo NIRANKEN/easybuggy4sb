@@ -11,14 +11,5 @@
 			"mainClass": "org.t246osslab.easybuggy4sb.Easybuggy4sbApplication",
 			"projectName": "easybuggy4sb"
 		},
-		{
-			"type": "java",
-			"name": "Attach to Remote Program",
-			"request": "attach",
-			"hostName": "localhost",
-			"port": "9009",
-			"preLaunchTask": "run",
-			"postDebugTask": "stop"
-		}
 	]
 }
